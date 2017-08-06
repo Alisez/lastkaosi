@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://D:/奥德工作/ssh4/WebContent/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://D:/奥德工作/ssh4/WebContent/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
